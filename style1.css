@@ -1,0 +1,77 @@
+
+body{
+    background: whitesmoke  
+}
+
+#navbar-nav {
+    height: 90px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+
+
+.navbar-toggler-icon{
+    width: 15px;
+}
+
+.navbar-toggler{
+    width: auto;
+    height: auto;
+    
+}
+
+
+
+.fixed-top{
+    position: relative;
+    background-color: black;
+}
+
+.contain{
+    margin: 0 auto   !important;
+    width: 100%;
+    height: 500px;
+    
+}
+
+#imagem{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 25px;
+}   
+
+
+.my_custom{
+    text-align: center;
+    display: block;
+    
+}
+
+.nav-link{
+    
+    margin-right: 50px;
+}
+
+
+.my_custom a:hover{
+    color: blueviolet;
+}
+
+.my_custom a:focus{
+    color: lightblue;
+}
+
+
+@media (max-width: 680px) {
+    
+    
+    #imagem{
+        height: 50px;
+        width: 50px;
+        margin-left: 10px;
+    }
+}
+
