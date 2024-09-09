@@ -13,7 +13,7 @@ body{
 
 
 .navbar-toggler-icon{
-    width: 15px;
+    width: 17px;
 }
 
 .navbar-toggler{
@@ -57,11 +57,11 @@ body{
 
 
 .my_custom a:hover{
-    color: blueviolet;
+    color: blue;
 }
 
 .my_custom a:focus{
-    color: lightblue;
+    color: lightgray;
 }
 
 
